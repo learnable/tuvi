@@ -2,6 +2,7 @@
 
 Tuvi is a computer language for kids to create text-based games and applications. It is a Ruby DSL which provides a simple way to declare the flow of the program as a series of steps. Although the below example demonstrates the use of Tuvi in creating a Choose-Your-Own-Adventure type game, it can be used for any text game or application. Tuvi was written in order to introduce programming to my son, Tuvi!
 
+[![Hack learnable/tuvi on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-3cc067e71372f6045e1949af9d96095b.png)](https://www.nitrous.io/hack_button?source=embed&runtime=rails&repo=learnable%2Ftuvi)
 ## Installation
 
 Install Tuvi simply with:
@@ -9,6 +10,8 @@ Install Tuvi simply with:
     $ gem install tuvi
 
 ## Usage
+
+ruby example_program.rb
 
 Here is a basic example program followed by an explanation:
 
